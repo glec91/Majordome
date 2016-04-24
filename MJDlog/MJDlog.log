@@ -1,0 +1,19 @@
+2016-04-24 10:15:04,332 The server is listening on port 12800
+2016-04-24 10:18:09,373 Accept connection with the client
+2016-04-24 10:18:09,376 IsCameraRunning
+2016-04-24 10:18:09,377 The server is listening on port 12800
+2016-04-24 10:19:45,619 Accept connection with the client
+2016-04-24 10:19:45,621 StartCamera
+2016-04-24 10:19:45,622 The server is listening on port 12800
+2016-04-24 10:19:45,623 capture
+2016-04-24 10:19:45,624 PHOTODAY 24
+2016-04-24 10:19:45,623 INTRUSION
+2016-04-24 10:19:55,635 INTRUSION
+2016-04-24 10:19:57,295 capture
+2016-04-24 10:19:57,296 PHOTODAY 24
+2016-04-24 10:20:05,646 INTRUSION
+2016-04-24 10:20:08,920 capture
+2016-04-24 10:20:08,921 PHOTODAY 24
+2016-04-24 10:20:11,324 Accept connection with the client
+2016-04-24 10:20:11,327 StopCamera
+2016-04-24 10:20:11,328 The server is listening on port 12800
